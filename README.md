@@ -22,9 +22,9 @@ The project is planning for the upcoming influenza season.
 Influenza season is December-March.
 
 ## Stakeholders
-<ul><b>Hospital Stafff:</b> What products are sliding in popularity? What inventory has been sitting on the shelves? What are the best times and locations to run promotions?</ul> 
-<ul><b>Staffing Agency Administrators:</b>  What products are not worth the cost of keeping on hand?</ul>
-<ul><b>Influenza Patients:</b> What products are meeting sales metrics? Which are not?</ul>
+<ul><b>Hospital Staff:</b> Which hospitals are most likely to see an influx of cases and need assistance serving their communities?</ul> 
+<ul><b>Staffing Agency Administrators:</b>  Where can we send our people to do the most good?</ul>
+<ul><b>Influenza Patients:</b> Will need care, possibly urgently, and the staffing must be there for them to receive that care.</ul>
 
 # Installation & Setup
 ## Programs
