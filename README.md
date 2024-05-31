@@ -1,8 +1,8 @@
 ![Header](./assets/FluHeader1.jpg)
 
-![Static Badge](https://img.shields.io/badge/rows_of_data_analyzed-66%2C097-red?color=735C4F)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/t/dee-wright/influenza-staffing-analysis?color=402C21)
-![GitHub repo size](https://img.shields.io/github/repo-size/dee-wright/influenza-staffing-analysis?color=AAADBF)
+![Static Badge](https://img.shields.io/badge/rows_of_data_analyzed-66%2C097-red?color=04738C)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/t/dee-wright/influenza-staffing-analysis?color=5BA698)
+![GitHub repo size](https://img.shields.io/github/repo-size/dee-wright/influenza-staffing-analysis?color=60BFA4)
 
 
 # Medical Staffing Planning Analysis
@@ -39,8 +39,8 @@ Average state temperatures sourced from Current Results ([fall](https://www.curr
 
 # Files Available
 Raw Data (CDC influenza deaths, census population)       
-Cleaned Data (CDC influenza deaths 2009-2017, census data by county & state 2009-2017, state numerical code reference sheet)
-Transformed & Integrated Dataset (joined with Power Query)
+Cleaned Data (CDC influenza deaths 2009-2017, census data by county & state 2009-2017, state numerical code reference sheet)      
+Transformed & Integrated Dataset (joined with Power Query)      
 Statistical Analyses   
 
 # Process & Results
@@ -66,7 +66,7 @@ My "next steps" recommendations included conducting assessments to uncover regio
 ![Header](./assets/FluTableauPreview3.jpg)
 
 # Acknowledgments/References
-Header photo by Photo by [Marcelo Leal](https://unsplash.com/@marceloleal80?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/black-stethoscope-with-brown-leather-case-k7ll1hpdhFA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)      
+Header photo by [CDC](https://unsplash.com/@cdc?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/person-holding-syringe-and-vial-_zFRhU7jqzc?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)                
 ["Roles of Humidity & Temperature in Shaping Influenza Seasonality"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4097773/), Lowen & Steel       
 ["Investigating the Effects of Absolute Humidity and Movement on COVID-19 Seasonality in the United States"](https://www.nature.com/articles/s41598-022-19898-8), Lin, Hamilton, Gatalo, Haghpanah, Egusa, & Klein (for average humidity levels of US states)
   
