@@ -1,8 +1,8 @@
 ![Header](./assets/FluHeader.jpg)
 
-![Static Badge](https://img.shields.io/badge/rows_of_data_analyzed-12%2C523%2C335-red?color=D93F07)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/t/dee-wright/iowa_liquor?color=D97D0D)
-![GitHub repo size](https://img.shields.io/github/repo-size/dee-wright/iowa_liquor?color=D96B0B)
+![Static Badge](https://img.shields.io/badge/rows_of_data_analyzed-66%2C097-red?color=735C4F)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/t/dee-wright/influenza-staffing-analysis?color=402C21)
+![GitHub repo size](https://img.shields.io/github/repo-size/dee-wright/influenza-staffing-analysis?color=AAADBF)
 
 
 # Medical Staffing Planning Analysis
@@ -67,7 +67,7 @@ My "next steps" recommendations included conducting assessments to uncover regio
 
 # Acknowledgments/References
 Header photo by Photo by [Marcelo Leal](https://unsplash.com/@marceloleal80?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/black-stethoscope-with-brown-leather-case-k7ll1hpdhFA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)      
-["Roles of Humidity & Temperature in Shaping Influenza Seasonality"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4097773/), Lowen & Steel
+["Roles of Humidity & Temperature in Shaping Influenza Seasonality"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4097773/), Lowen & Steel       
 ["Investigating the Effects of Absolute Humidity and Movement on COVID-19 Seasonality in the United States"](https://www.nature.com/articles/s41598-022-19898-8), Lin, Hamilton, Gatalo, Haghpanah, Egusa, & Klein (for average humidity levels of US states)
   
   
