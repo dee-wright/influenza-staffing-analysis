@@ -1,4 +1,4 @@
-![Header](./assets/FluHeader1.jpg)
+![Header](./assets/influenza_header.png)
 
 ![Static Badge](https://img.shields.io/badge/rows_of_data_analyzed-66%2C097-red?color=04738C)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/dee-wright/influenza-staffing-analysis?color=5BA698)
